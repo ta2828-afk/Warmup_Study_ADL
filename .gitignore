@@ -1,0 +1,6 @@
+Code/*.zip
+Code/data/*.npz
+Code/data/cifar-*
+*.zip
+*.tar.gz
+*.npz
