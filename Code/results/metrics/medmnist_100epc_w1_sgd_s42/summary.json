@@ -1,0 +1,13 @@
+{
+  "experiment_name": "medmnist_100epc_w1_sgd_s42",
+  "dataset": "medmnist",
+  "examples_per_class": 100,
+  "warmup_epochs": 1,
+  "optimizer": "sgd",
+  "seed": 42,
+  "best_val_acc": 67.6740947075209,
+  "final_val_acc": 65.71030640668523,
+  "training_time_seconds": 104.56345653533936,
+  "total_epochs": 85,
+  "batch_size": 256
+}

@@ -1,0 +1,13 @@
+{
+  "experiment_name": "cifar100_100epc_w0_sgd_s42",
+  "dataset": "cifar100",
+  "examples_per_class": 100,
+  "warmup_epochs": 0,
+  "optimizer": "sgd",
+  "seed": 42,
+  "best_val_acc": 51.02,
+  "final_val_acc": 50.7,
+  "training_time_seconds": 318.56490302085876,
+  "total_epochs": 85,
+  "batch_size": 256
+}

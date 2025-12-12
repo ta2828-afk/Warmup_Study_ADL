@@ -1,0 +1,12 @@
+{
+  "experiment_name": "colab_test",
+  "dataset": "cifar10",
+  "examples_per_class": 100,
+  "warmup_epochs": 1,
+  "optimizer": "sgd",
+  "seed": 42,
+  "best_val_acc": 11.97,
+  "final_val_acc": 11.96,
+  "training_time_seconds": 16.109760999679565,
+  "total_epochs": 5
+}

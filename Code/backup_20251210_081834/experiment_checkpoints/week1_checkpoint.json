@@ -1,0 +1,14 @@
+{
+  "week": 1,
+  "completed_experiments": [
+    "cifar10_5000epc_w0_sgd_s42"
+  ],
+  "results": [
+    {
+      "experiment_name": "cifar10_5000epc_w0_sgd_s42",
+      "best_val_acc": 95.02,
+      "training_time_seconds": 4451.076019525528
+    }
+  ],
+  "last_updated": "2025-12-10T08:01:56.896410"
+}

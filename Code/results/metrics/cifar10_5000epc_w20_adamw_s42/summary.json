@@ -1,0 +1,13 @@
+{
+  "experiment_name": "cifar10_5000epc_w20_adamw_s42",
+  "dataset": "cifar10",
+  "examples_per_class": 5000,
+  "warmup_epochs": 20,
+  "optimizer": "adamw",
+  "seed": 42,
+  "best_val_acc": 93.2,
+  "final_val_acc": 93.08,
+  "training_time_seconds": 997.3379745483398,
+  "total_epochs": 85,
+  "batch_size": 256
+}

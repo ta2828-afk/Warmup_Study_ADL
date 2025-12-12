@@ -1,0 +1,17 @@
+data:
+  data_dir: ./data
+  examples_per_class: 100
+  name: cifar10
+experiment_name: colab_test
+model:
+  name: resnet18
+  num_classes: 10
+training:
+  batch_size: 128
+  epochs: 5
+  lr: 0.1
+  momentum: 0.9
+  optimizer: sgd
+  seed: 42
+  warmup_epochs: 1
+  weight_decay: 0.0005

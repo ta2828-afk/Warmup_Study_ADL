@@ -1,0 +1,13 @@
+{
+  "experiment_name": "medmnist_100epc_w1_adamw_s42",
+  "dataset": "medmnist",
+  "examples_per_class": 100,
+  "warmup_epochs": 1,
+  "optimizer": "adamw",
+  "seed": 42,
+  "best_val_acc": 70.6267409470752,
+  "final_val_acc": 70.30640668523677,
+  "training_time_seconds": 262.86733508110046,
+  "total_epochs": 85,
+  "batch_size": 256
+}
