@@ -11,6 +11,7 @@ This project conducts 155 experiments across:
 - **2 optimizers**: SGD and AdamW
 
 **Total computational requirement**: 20-24 GPU hours
+Google Drive Link for large files :- "https://drive.google.com/drive/folders/1UFBFI3-eEXvIj2oWS-bxVkEvEBIdV8NP?usp=sharing"
 
 ## Installation
 
